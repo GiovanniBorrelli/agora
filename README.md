@@ -10,7 +10,6 @@
 </div>
 
 ## Demo
-
 https://youtu.be/C7u-D-xHADw?si=ceTvK5xGK3UvvYlK
 
 ## System Purpose
