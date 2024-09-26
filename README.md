@@ -9,6 +9,10 @@
     <h4 align="center">Human-Computer Interaction Project about Inclusion</h4>
 </div>
 
+## Demo
+
+https://youtu.be/C7u-D-xHADw?si=ceTvK5xGK3UvvYlK
+
 ## System Purpose
 The purpose of the system is to provide social activism communities with a unique platform where they can engage collectively online, posting events, news, and communicating with each other.
 
